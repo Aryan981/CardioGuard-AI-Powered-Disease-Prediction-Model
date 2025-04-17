@@ -30,4 +30,4 @@ Graph Neural Network (GNN)
 
 Results
 
-The best-performing model achieved 92% accuracy
+The best-performing model achieved 92% accuracy.
