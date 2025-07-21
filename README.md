@@ -1,4 +1,4 @@
-Heart Disease Prediction Using Machine Learning and GNN
+CardioGuard Using Machine Learning and GNN
 
 This project builds a predictive model to assess the likelihood of heart disease using various machine learning algorithms and Graph Neural Networks (GNN). It involves data analysis, feature engineering, and model evaluation to determine the best-performing approach.
 
